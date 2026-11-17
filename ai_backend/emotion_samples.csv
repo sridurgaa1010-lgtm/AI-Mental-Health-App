@@ -1,0 +1,61 @@
+text,emotion
+"I feel happy and excited today",Happy
+"Today was wonderful and full of joy",Happy
+"I am grateful for my friends",Happy
+"I feel great about my progress",Happy
+"I am smiling and feeling positive",Happy
+"I had a really good day",Happy
+"I am excited about my college results",Happy
+"I feel cheerful and motivated",Happy
+"Everything went well today",Happy
+"I feel proud of myself",Happy
+"I feel sad and lonely",Sad
+"I feel like crying today",Sad
+"I am unhappy with how things went",Sad
+"I miss my friends and feel alone",Sad
+"I feel empty inside",Sad
+"Today has been a difficult day",Sad
+"I am feeling low and upset",Sad
+"Nothing seems to make me happy",Sad
+"I feel disappointed in myself",Sad
+"I just want to be alone",Sad
+"I am nervous about my exams",Anxious
+"I keep worrying about my results",Anxious
+"I am scared of failing",Anxious
+"I feel anxious about tomorrow",Anxious
+"My heart races when I think about exams",Anxious
+"I am afraid of speaking in class",Anxious
+"I cannot stop worrying about my future",Anxious
+"I feel nervous before presentations",Anxious
+"I am worried about what others think",Anxious
+"I feel frightened about the interview",Anxious
+"I am overwhelmed with assignments",Stressed
+"I have too much work to finish",Stressed
+"I feel exhausted after studying all day",Stressed
+"The pressure is getting too much",Stressed
+"I cannot manage my college workload",Stressed
+"I feel burned out from studying",Stressed
+"I have several deadlines coming up",Stressed
+"I am tired and mentally drained",Stressed
+"I do not have enough time to prepare",Stressed
+"Everything is happening at once",Stressed
+"I am angry about what happened",Angry
+"I feel irritated with everyone",Angry
+"I am frustrated with my assignment",Angry
+"This situation makes me furious",Angry
+"I am annoyed by the constant interruptions",Angry
+"I feel angry about my marks",Angry
+"I cannot control my irritation",Angry
+"I am upset because nobody listens",Angry
+"That was really unfair and frustrating",Angry
+"I feel like shouting at everyone",Angry
+"I have a class tomorrow",Neutral
+"I am studying computer science",Neutral
+"My lecture starts at ten",Neutral
+"I completed my homework",Neutral
+"I need to buy a notebook",Neutral
+"I attended three classes today",Neutral
+"My examination is next week",Neutral
+"I am going to the library",Neutral
+"I have a programming assignment",Neutral
+"Today is Monday",Neutral
